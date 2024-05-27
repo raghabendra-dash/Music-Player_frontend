@@ -2,7 +2,7 @@
 
 A music player with a user-friendly UI that plays music in the browser.This app is made using HTML5, CSS3 and Javascript.
 
->Go Live:  [click]()
+>Go Live:  [click](https://music-player-frontend-seven.vercel.app/)
 
 
 ### Preview images
